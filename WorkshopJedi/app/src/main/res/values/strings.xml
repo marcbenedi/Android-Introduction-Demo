@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WorkshopJedi</string>
+    <string name="title_main_activity">Main Activity Screen</string>
+    <string name="button_1_main_activity">Click Me!</string>
+    <string name="go_to_recycler_view">Go to Recycler View</string>
+    <string name="title_activity_recycler_view">RecyclerViewActivity</string>
+    <string name="enter_city_name_here">enter city name here</string>
+    <string name="query_api">Query API</string>
+    <string name="go_to_api_activity">Go to API activity</string>
+</resources>
